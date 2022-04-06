@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="VerifyInputView">
+        <attr name="itemCount" format="integer"/>
+        <attr name="itemSize" format="dimension"/>
+        <attr name="itemTextSize" format="dimension"/>
+        <attr name="itemGap" format="dimension"/>
+        <attr name="itemBackground" format="reference"/>
+    </declare-styleable>
+</resources>
